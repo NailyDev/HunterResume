@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HunterResume
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# HunterResume
+>>>>>>> 55b9235f92fd832db90bf223346bc1939cf3a0ec
