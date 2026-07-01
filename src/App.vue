@@ -6,6 +6,9 @@
         <h1>Возможности</h1>
         <h1>Как работает?</h1>
       </div>
+      <div>
+        hello
+      </div>
     </header>
   </div>
 </template> 
